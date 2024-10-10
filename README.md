@@ -25,8 +25,8 @@
    cd Password-Generator-Using-js
    ```
 
-3. **Open `index.html` in your web browser**:
-   - Simply double-click the `index.html` file or serve it using any local server.
+3. **Open `Pass.html` in your web browser**:
+   - Simply double-click the `Pass.html` file or serve it using any local server.
 
 
 
